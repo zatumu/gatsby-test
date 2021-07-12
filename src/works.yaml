@@ -1,0 +1,19 @@
+- slug: writing
+  title: なんとかかんとか
+  imageUrl: '/work.png'
+  roles:
+  - WordPress
+  - React
+  description: |-
+    ほにゃほにゃ
+    こちょこちょs
+- slug: reading
+  title: かんとかなんとか
+  imageUrl: '/work.png'
+  roles:
+  - WordPress
+  - React
+  description: |-
+    こちょこちょ
+    ほにゃほにゃ
+
